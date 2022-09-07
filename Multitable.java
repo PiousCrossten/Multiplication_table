@@ -7,7 +7,7 @@ public class Multitable {
       Scanner a=new Scanner(System.in);
       System.out.println("Enter the Number for which You need a muliplication table");
       int x = a.nextInt();
-      for(int i=1;i<=1000000;i++)
+      for(int i=1;i<=10;i++)
       {
     	  System.out.print(+x);
     	  System.out.print( "*" );
